@@ -43,5 +43,8 @@ body{
     border-radius: 0.6rem;
     font-size: 1vw;
     backface-visibility: hidden;
+}
+
+.cartão_conteudo p {
 
 }
